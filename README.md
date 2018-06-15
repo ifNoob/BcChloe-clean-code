@@ -38,6 +38,8 @@
 
 # == Changelog ==
 * Upgrade notice
+* = 1.1.1 =
+* 余分code削除
 
 * = 1.1 =
 * Bug Fixed
